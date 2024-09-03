@@ -26,14 +26,6 @@ El proceso incluye la carga y exploración de los datos, identificación y trata
 ### Paso 4: Validación de Datos
 - **Verificación Final**: Asegurarse de que el dataset manipulado cumpla con los criterios de calidad, como la consistencia en los tipos de datos y la ausencia de valores faltantes.
 
-## Estructura del Proyecto
-
-- **datasets/**: Contiene los archivos de datos utilizados en el proyecto.
-- **notebooks/**: Contiene el Jupyter Notebook principal del proyecto.
-  - **proyecto3.ipynb**: Notebook con el proceso completo de manipulación y limpieza de datos.
-- **src/**: Scripts auxiliares utilizados para la manipulación de datos (si es aplicable).
-- **README.md**: Este archivo.
-
 ## Tecnologías Utilizadas
 
 - **Python**: Lenguaje de programación utilizado para todo el proceso de manipulación de datos.
